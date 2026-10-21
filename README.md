@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KartheekHero/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/KartheekHero/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0503-next-greater-element-ii](https://github.com/KartheekHero/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KartheekHero/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KartheekHero/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KartheekHero/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KartheekHero/leetcode-dsa/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/KartheekHero/leetcode-dsa/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/KartheekHero/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/KartheekHero/leetcode-dsa/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
