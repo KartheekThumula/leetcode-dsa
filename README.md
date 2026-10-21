@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KartheekHero/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0503-next-greater-element-ii](https://github.com/KartheekHero/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KartheekHero/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KartheekHero/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KartheekHero/leetcode-dsa/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/KartheekHero/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/KartheekHero/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
