@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartheekHero/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KartheekHero/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/KartheekHero/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/KartheekHero/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0503-next-greater-element-ii](https://github.com/KartheekHero/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartheekHero/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/KartheekHero/leetcode-dsa/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KartheekHero/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
