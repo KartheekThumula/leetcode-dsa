@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KartheekHero/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KartheekHero/leetcode-dsa/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/KartheekHero/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KartheekHero/leetcode-dsa/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KartheekHero/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/KartheekHero/leetcode-dsa/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KartheekHero/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KartheekHero/leetcode-dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
