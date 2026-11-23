@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3046-split-the-array](https://github.com/KartheekHero/leetcode-dsa/tree/master/3046-split-the-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/KartheekHero/leetcode-dsa/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
